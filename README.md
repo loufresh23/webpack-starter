@@ -1,5 +1,4 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
 
 
 ## Nota
